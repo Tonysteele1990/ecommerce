@@ -37,6 +37,9 @@ gem 'font-awesome-rails'
 gem 'devise'
 gem 'cancancan'
 gem 'carrierwave'
+gem 'aws-sdk', '~> 2.3'
+gem 'faker', :git => 'git://github.com/stympy/faker.git', :branch => 'master'
+gem 'fog'
 
 gem 'hirb'
 
